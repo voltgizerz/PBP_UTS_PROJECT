@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919062768721",
+    "firebase_url": "https://pbptubesec.firebaseio.com",
+    "project_id": "pbptubesec",
+    "storage_bucket": "pbptubesec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919062768721:android:9926befbc3d726acf91c70",
+        "android_client_info": {
+          "package_name": "com.example.pbp_progress_e_kelc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919062768721-2sgiovptuk8n39bsi088939gn6d9j8gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pbp_progress_e_kelc",
+            "certificate_hash": "e1def8fd8c54f63eddcfccba11076a4cabbb52c0"
+          }
+        },
+        {
+          "client_id": "919062768721-mlb8p6gtfbec3fh21r2qsm0s3nlc2kbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUg1N-0SXf_I7mqwo4lAjCBb7SAIuoDUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919062768721-mlb8p6gtfbec3fh21r2qsm0s3nlc2kbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pbp_progress_e_kelc">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/resto"
+        android:label="Dabhas Cathering"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ListPemesananAdmin"></activity>
+        <activity android:name=".EditPemesanan" />
+        <activity android:name=".ListPemesananPengguna" />
+        <activity android:name=".ProfilPengguna" />
+        <activity android:name=".MenuPemesanan" />
+        <activity android:name=".MenuPengguna" />
+        <activity android:name=".MenuAdmin" />
+        <activity android:name=".LoginAdmin" />
+        <activity android:name=".LoginPengguna" />
+        <activity android:name=".emailVerif" />
+        <activity android:name=".DaftarPengguna" />
+        <activity android:name=".pilihAdminAtauPengguna" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
